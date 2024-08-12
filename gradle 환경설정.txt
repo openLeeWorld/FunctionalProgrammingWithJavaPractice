@@ -1,0 +1,2 @@
+gradle 파일 설치, 환경 변수로 path를 bin 설정, gradle -version 확인
+gradle init, gradle build, gradle run 으로 확인
